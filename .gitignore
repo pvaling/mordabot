@@ -3,3 +3,5 @@
 venv
 haarcascade_frontalface_default.xml
 tmp_files/*
+services/recognition/dataset/
+.idea
